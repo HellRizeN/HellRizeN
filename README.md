@@ -26,12 +26,17 @@
 ɪɴɴᴏᴄᴇɴᴛ 🥺
  ɪ ʟᴏᴠᴇ ᴛᴀʟᴋ ᴛᴏ ʙᴇ ᴀ ɢᴏᴏᴅ ᴀɴᴅ ʙᴇꜱᴛ ғʀɴᴅꜱ ᴡᴇ ᴡɪʟʟ ᴍᴇᴇᴛ ᴛʜᴀɴᴋ ғᴏʀ ᴛʜᴀᴛ..... 
 ʙᴇ ᴀ ɢᴏᴏᴅ ᴏɴᴇ 😌⚡🔥
-═════════════════════════════════════════════//
-════════════════════//
+══════════════════════//
+═════════════════//
+
 - 👋 ʜɪ, ɪ’ᴍ @ʜᴇʟʟʀɪᴢᴇɴ
+
 - 👀 ɪ’ᴍ ɪɴᴛᴇʀᴇsᴛᴇᴅ ɪɴ ...
+
 - 🌱 ɪ’ᴍ ᴄᴜʀʀᴇɴᴛʟʏ ʟᴇᴀʀɴɪɴɢ ...
+
 - 💞️ ɪ’ᴍ ʟᴏᴏᴋɪɴɢ ᴛᴏ ᴄᴏʟʟᴀʙᴏʀᴀᴛᴇ ᴏɴ ...
+
 - 📫 ʜᴏᴡ ᴛᴏ ʀᴇᴀᴄʜ ᴍᴇ ...
 
 ## ᴛʜᴀɴᴋꜱ ʏᴏᴜ ... 
@@ -52,8 +57,3 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HellRizeN&theme=monokai)
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-
-<!---
-HellRizeN/HellRizeN is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
